@@ -1,1 +1,1 @@
-# MazeGame
+# Maze Puzzle
